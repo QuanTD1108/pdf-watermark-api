@@ -1,9 +1,0 @@
-{
-  "name": "pdf-watermark-api",
-  "version": "1.0.0",
-  "description": "API dong watermark PDF",
-  "dependencies": {
-    "axios": "^1.6.0",
-    "pdf-lib": "^1.17.5"
-  }
-}
